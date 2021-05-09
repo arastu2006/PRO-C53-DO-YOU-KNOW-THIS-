@@ -1,0 +1,65 @@
+1. Which one of the following is an Imperative Language? 
+HTML
+CSS
+Java Script
+
+      Answer:	Javascript is an Imperative Language.
+ 
+2. Which one of the following is a Declarative Language? 
+HTML
+CSS
+Java Script
+
+      Answer:   HTML and CSS are Declarative Languages.
+  
+
+3. Name two uses of a DIV tag?
+
+      Answer:The div tag is known as Division tag. The div tag is used in HTML to make divisions of 
+              content in the web page like text, images, header, footer etc.
+ 
+
+4. What is the difference between relative positioning and absolute positioning in HTML? 
+
+      Answer:Relative :-places an element relative to its current position without changing the layout around it.
+             Absolute :- places an element relative to its parent’s position and changes the layout around it.
+  
+
+5. What is the use of opacity in CSS??
+
+      Answer: The opacity-level describes the transparency-level, where 1 is not transparent at all, 0.5 is 50% see-through, 
+               and 0 is completely transparent.
+   
+
+6. Which is the programming language used in the React Native Framework??
+
+      Answer: JSX
+ 
+
+7. Which online editor are we using for creating our apps in React Native Framework?? 
+
+      Answer: Snack.io
+
+
+ 8. Write the steps to test your first designed app in the online editor on a mobile.
+
+      Answer:For Android/iOS, you can install Expo Client, sign in with the same account and open the project from under 
+             Projects Tab. For Android, you can also scan the QR Code.
+  
+
+9. What is the use of the render function in React Native Framework? 
+
+      Answer:‘render()’ function simply displays whatever components are returned by it. 
+  
+
+10. What is the use of return function in React Native Framework? 
+
+      Answer:  Anything that is in the return function/statement  is rendered or displayed.
+
+
+11. What are the various components in your first app that you designed?
+1) 	Button
+2) 	View
+3) 	Text
+
+      Answer:View
